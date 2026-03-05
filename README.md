@@ -1,6 +1,9 @@
 <div align="center">
+  <img width="870" height="295" alt=gif src="https://litter.catbox.moe/jf7n9nxrytluisiy.gif">&nbsp;&nbsp;&nbsp;
 
-![](https://komarev.com/ghpvc/?username=busterfang&style=flat-square&color=gray&label=svinoti)  
+  # 
+
+  ![](https://komarev.com/ghpvc/?username=busterfang&style=flat-square&color=gray&label=svinoti)  
 
 я жирный , w2i пушто я оффтаб часто 
 
